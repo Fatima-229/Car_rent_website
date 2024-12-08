@@ -65,7 +65,6 @@ export default function Page() {
             </div>
           </CardContent>
         </Card>
-
         <Card className="w-full lg:w-[852px] h-auto lg:h-[664px] flex flex-col justify-around">
           <CardHeader>
             <CardTitle>Rental Info</CardTitle>
@@ -187,7 +186,6 @@ export default function Page() {
             <Image src={"/Bitcoin.png"} alt="Bitcoin" width={804} height={56} />
           </CardContent>
         </Card>
-
         <Card className="w-full lg:w-[852px] h-auto lg:h-[484px] flex flex-col justify-around">
           <CardHeader>
             <CardTitle>Confirmation</CardTitle>
